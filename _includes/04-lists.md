@@ -1,3 +1,3 @@
-[] Stuff
-[] and
-[] Things
+[] - Stuff
+[] - and
+[] - Things
